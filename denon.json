@@ -3,7 +3,7 @@
 	"scripts": {
 		"start": "app.ts"
 	},
-	"allow": ["net", "read", "write"],
+	"allow": ["net", "read", "write", "env"],
 	"watcher": {
 		"exts": ["js", "ts"]
 	}
